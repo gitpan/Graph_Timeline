@@ -1,0 +1,11 @@
+examples/popes1.tab
+examples/pres1.tab
+examples/pres2.tab
+examples/timeline
+lib/Graph/Timeline/GD.pm
+lib/Graph/Timeline.pm
+Makefile.PL
+MANIFEST
+README
+t/GD.t
+t/Timeline.t
